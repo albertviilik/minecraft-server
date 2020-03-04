@@ -1,0 +1,634 @@
+[13:47:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:47:17] [Server thread/INFO]: Loading properties
+[13:47:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-800b93f-8160e29 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[13:47:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:47:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:47:18] [Server thread/INFO]: Debug logging is disabled
+[13:47:18] [Server thread/INFO]: Default game type: SURVIVAL
+[13:47:18] [Server thread/INFO]: Generating keypair
+[13:47:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:47:18] [Server thread/INFO]: Using default channel type
+[13:47:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[13:47:21] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@38a219e0]
+[13:47:21] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[13:47:21] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[13:47:21] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:47:21] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[13:47:21] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:47:21] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[13:47:21] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[13:47:21] [Server thread/WARN]: [WorldEdit]   
+[13:47:21] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[13:47:21] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[13:47:21] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[13:47:21] [Server thread/WARN]: [WorldEdit]   
+[13:47:21] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[13:47:21] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[13:47:21] [Server thread/WARN]: [WorldEdit]   
+[13:47:21] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[13:47:21] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[13:47:21] [Server thread/WARN]: [WorldEdit]   
+[13:47:21] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[13:47:21] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:47:21] [Server thread/INFO]: Preparing level "world"
+[13:47:21] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:47:22] [Server thread/INFO]: Loaded 6 recipes
+[13:47:22] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:47:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:47:22] [Server thread/INFO]: Mob Spawn Range: 6
+[13:47:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:47:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:47:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:47:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:47:22] [Server thread/INFO]: Max TNT Explosions: 100
+[13:47:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:47:22] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:47:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:47:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:47:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:47:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:47:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:47:22] [Server thread/INFO]: View Distance: 10
+[13:47:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[13:47:22] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:47:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:47:22] [Server thread/INFO]: Mob Spawn Range: 6
+[13:47:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:47:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:47:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:47:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:47:22] [Server thread/INFO]: Max TNT Explosions: 100
+[13:47:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:47:22] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:47:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:47:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:47:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:47:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:47:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:47:22] [Server thread/INFO]: View Distance: 10
+[13:47:22] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:47:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:47:22] [Server thread/INFO]: Mob Spawn Range: 6
+[13:47:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:47:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:47:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:47:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:47:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:47:22] [Server thread/INFO]: Max TNT Explosions: 100
+[13:47:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:47:22] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:47:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:47:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:47:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:47:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:47:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:47:22] [Server thread/INFO]: View Distance: 10
+[13:47:22] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[13:47:23] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:23] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:23] [Server thread/INFO]: Time elapsed: 880 ms
+[13:47:23] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[13:47:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:24] [Server thread/INFO]: Preparing spawn area: 83%
+[13:47:24] [Server-Worker-6/INFO]: Preparing spawn area: 95%
+[13:47:24] [Server thread/INFO]: Time elapsed: 1279 ms
+[13:47:24] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[13:47:25] [Server thread/INFO]: Preparing spawn area: 0%
+[13:47:25] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[13:47:25] [Server thread/INFO]: Time elapsed: 811 ms
+[13:47:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[13:47:25] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[13:47:25] [Server thread/INFO]: No kits found to migrate.
+[13:47:25] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[13:47:25] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[13:47:25] [Server thread/INFO]: [Essentials] Converted 0/1
+[13:47:25] [Server thread/INFO]: [Essentials] Ban format update complete.
+[13:47:25] [Server thread/INFO]: [Essentials] Starting usermap repair
+[13:47:25] [Server thread/INFO]: [Essentials] Reading: 0.00%
+[13:47:25] [Server thread/INFO]: [Essentials] Completed usermap repair.
+[13:47:25] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[13:47:25] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[13:47:25] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[13:47:26] [Server thread/INFO]: Loaded 21018 items from items.json.
+[13:47:26] [Server thread/INFO]: Using locale en_GB
+[13:47:26] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:47:26] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:47:26] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[13:47:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:47:26] [Server thread/INFO]: Done (4.432s)! For help, type "help"
+[13:51:24] [User Authenticator #1/INFO]: UUID of player albertbug is ec8f8081-5480-428d-ab7c-4183b9d7e2ed
+[13:51:24] [Server thread/INFO]: albertbug[/127.0.0.1:58227] logged in with entity id 262 at ([world]3.4969252379651827, 81.282382531375, -68.96177370004209)
+[13:51:33] [Server thread/INFO]: albertbug issued server command: /position
+[13:51:54] [Server thread/INFO]: albertbug issued server command: /world world_nether
+[13:51:59] [Server thread/INFO]: albertbug issued server command: /world
+[13:52:05] [Server thread/INFO]: albertbug issued server command: /time set day
+[13:52:16] [Server thread/INFO]: albertbug issued server command: /world world_nether
+[13:52:21] [Server thread/INFO]: albertbug issued server command: /top
+[13:52:29] [Server thread/INFO]: albertbug issued server command: /up 5
+[13:52:51] [Server thread/INFO]: albertbug issued server command: /cut
+[13:52:53] [Server thread/INFO]: albertbug issued server command: //cut
+[13:52:59] [Server thread/INFO]: albertbug issued server command: //paste
+[13:53:39] [Server thread/INFO]: albertbug issued server command: //rotate 90
+[13:53:47] [Server thread/INFO]: albertbug issued server command: //paste
+[13:53:47] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:53:53] [Server thread/INFO]: albertbug issued server command: //undo
+[13:53:56] [Server thread/INFO]: albertbug issued server command: //paste
+[13:53:56] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:53:59] [Server thread/INFO]: albertbug issued server command: //undo
+[13:54:00] [Server thread/INFO]: albertbug issued server command: //paste
+[13:54:00] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:54:04] [Server thread/INFO]: albertbug issued server command: //rotate 90
+[13:54:07] [Server thread/INFO]: albertbug issued server command: //paste
+[13:54:07] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:54:09] [Server thread/INFO]: albertbug issued server command: //undo
+[13:54:11] [Server thread/INFO]: albertbug issued server command: //paste
+[13:54:11] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:54:12] [Server thread/INFO]: albertbug issued server command: //undo
+[13:54:14] [Server thread/INFO]: albertbug issued server command: //paste
+[13:54:14] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:54:17] [Server thread/INFO]: albertbug issued server command: //rotate 90
+[13:54:19] [Server thread/INFO]: albertbug issued server command: //paste
+[13:54:19] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:54:38] [Server thread/INFO]: albertbug issued server command: //move 2
+[13:55:39] [Server thread/INFO]: albertbug issued server command: //copy
+[13:55:43] [Server thread/INFO]: albertbug issued server command: //paste
+[13:55:43] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:55:45] [Server thread/INFO]: albertbug issued server command: //paste
+[13:55:45] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:55:46] [Server thread/INFO]: albertbug issued server command: //paste
+[13:55:46] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:55:50] [Server thread/INFO]: albertbug issued server command: //undo
+[13:56:04] [Server thread/INFO]: albertbug issued server command: //copy
+[13:56:07] [Server thread/INFO]: albertbug issued server command: //rotate 90
+[13:56:11] [Server thread/INFO]: albertbug issued server command: //paste
+[13:56:11] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:56:13] [Server thread/INFO]: albertbug issued server command: //rotate 90
+[13:56:15] [Server thread/INFO]: albertbug issued server command: //paste
+[13:56:15] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:56:18] [Server thread/INFO]: albertbug issued server command: //rotate 90
+[13:56:20] [Server thread/INFO]: albertbug issued server command: //paste
+[13:56:20] [Server thread/INFO]: [PT] albertbug issued server command: //paste
+[13:56:42] [Server thread/INFO]: albertbug issued server command: //set minecraft:obsidian
+[13:56:50] [Server thread/INFO]: albertbug issued server command: //set minecraft:obsidian
+[13:57:59] [Server thread/INFO]: albertbug issued server command: //set minecraft:packed_ice
+[13:58:57] [Server thread/INFO]: albertbug issued server command: //stack 10000
+[13:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23940ms or 478 ticks behind
+[14:00:16] [Server thread/INFO]: albertbug issued server command: //stack 10000
+[14:00:26] [Server thread/INFO]: albertbug issued server command: //stack 10000
+[14:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11767ms or 235 ticks behind
+[14:01:04] [Server thread/INFO]: albertbug issued server command: //stack 10000
+[14:01:31] [Server thread/WARN]: albertbug moved too quickly! -2.623197161145546,3.9924244453501387,8.846287620251179
+[14:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23452ms or 469 ticks behind
+[14:01:48] [Server thread/INFO]: albertbug issued server command: //stack 10000
+[14:02:23] [Server thread/WARN]: albertbug moved too quickly! -8.80135476455529,2.4935606158000496,-4.310939102237472
+[14:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23065ms or 461 ticks behind
+[14:02:36] [Server thread/INFO]: albertbug issued server command: //stack 10000
+[14:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10174ms or 203 ticks behind
+[14:03:17] [Server thread/INFO]: albertbug issued server command: /pt
+[14:04:34] [Server thread/INFO]: albertbug issued server command: /time set day
+[14:04:37] [Server thread/INFO]: albertbug issued server command: /mobkill
+[14:04:40] [Server thread/INFO]: albertbug issued server command: /mobkill all
+[14:05:02] [Server thread/INFO]: albertbug issued server command: /locate Stronghold
+[14:05:36] [Server thread/INFO]: albertbug issued server command: //set 0
+[14:07:40] [Server thread/INFO]: albertbug issued server command: /tp @s -1432 ~ -1016
+[14:07:46] [Server thread/INFO]: albertbug issued server command: /tp albertbug -1432 ~ -1016
+[14:07:54] [Server thread/INFO]: albertbug issued server command: /gamemode spectator
+[14:08:00] [Server thread/INFO]: albertbug has made the advancement [Eye Spy]
+[14:08:06] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[14:08:27] [Server thread/INFO]: albertbug issued server command: //copy
+[14:08:29] [Server thread/INFO]: albertbug issued server command: //back
+[14:08:31] [Server thread/INFO]: albertbug issued server command: /back
+[14:08:31] [Server thread/WARN]: albertbug moved too quickly! 1433.9180727065414,47.1437388408913,940.8383277164736
+[14:08:40] [Server thread/INFO]: albertbug issued server command: //paste
+[14:08:45] [Server thread/INFO]: albertbug issued server command: //undo
+[14:08:46] [Server thread/INFO]: albertbug issued server command: //paste
+[14:09:09] [Server thread/INFO]: albertbug has made the advancement [The End?]
+[14:09:09] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:09:09] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[14:09:10] [Server thread/WARN]: albertbug moved too quickly! 96.94249594020384,-21.801099067686962,70.14826478340362
+[14:09:20] [Server thread/INFO]: albertbug issued server command: //set 0
+[14:09:23] [Server thread/INFO]: albertbug issued server command: //stack 20
+[14:10:30] [Server thread/INFO]: albertbug issued server command: //cyl 0 4
+[14:10:39] [Server thread/INFO]: albertbug issued server command: //cyl 0 5
+[14:10:42] [Server thread/INFO]: albertbug issued server command: //cyl 0 6
+[14:10:47] [Server thread/INFO]: albertbug issued server command: //cyl 0 7
+[14:10:50] [Server thread/INFO]: albertbug issued server command: //cyl 0 8
+[14:10:55] [Server thread/INFO]: albertbug issued server command: //cyl 0 9
+[14:11:02] [Server thread/INFO]: albertbug issued server command: //cyl 0 10
+[14:11:06] [Server thread/INFO]: albertbug issued server command: //cyl 0 11
+[14:11:14] [Server thread/INFO]: albertbug issued server command: //cyl 0 12
+[14:11:16] [Server thread/INFO]: albertbug issued server command: //undo
+[14:11:19] [Server thread/INFO]: albertbug issued server command: //cyl 0 12
+[14:12:17] [Async Chat Thread - #0/INFO]: <[0;31;22malbertbug[m> ~tp 500 ~0 0[m
+[14:12:32] [Server thread/INFO]: albertbug issued server command: /tp 500 ~0 0
+[14:12:35] [Server thread/INFO]: albertbug issued server command: /up -1
+[14:12:38] [Server thread/INFO]: albertbug issued server command: /up 1
+[14:12:47] [Server thread/INFO]: albertbug issued server command: //stack 50
+[14:12:55] [Server thread/INFO]: albertbug issued server command: //expand 49
+[14:12:57] [Server thread/INFO]: albertbug issued server command: //set 0
+[14:13:41] [Server thread/INFO]: albertbug issued server command: //cyl minecraft:quartz_slab 50
+[14:13:44] [Server thread/INFO]: albertbug issued server command: //undo
+[14:13:56] [Server thread/INFO]: albertbug issued server command: //cyl minecraft:quartz_slab 50
+[14:15:10] [Server thread/INFO]: albertbug issued server command: /speed 5
+[14:15:16] [Server thread/INFO]: albertbug issued server command: /speed 1
+[14:15:23] [Server thread/INFO]: albertbug issued server command: //center minecraft:diamond_block
+[14:16:11] [Server thread/INFO]: albertbug issued server command: /mobkill mobs enderman
+[14:16:35] [Server thread/INFO]: albertbug issued server command: /thor
+[14:16:47] [Server thread/INFO]: albertbug issued server command: /thor
+[14:19:04] [Server thread/INFO]: albertbug issued server command: //set minecraft:oak_leaves
+[14:19:10] [Server thread/INFO]: albertbug issued server command: //stack 10
+[14:20:45] [Server thread/INFO]: albertbug issued server command: //undo
+[14:20:46] [Server thread/INFO]: albertbug issued server command: //undo
+[14:22:58] [Server thread/INFO]: albertbug issued server command: /killall @e[type=enderman]
+[14:23:03] [Server thread/INFO]: albertbug issued server command: /killall @e[type=endermite]
+[14:23:07] [Server thread/INFO]: albertbug issued server command: /thor
+[14:23:58] [Server thread/INFO]: albertbug issued server command: //set minecraft:quartz_block
+[14:24:00] [Server thread/INFO]: albertbug issued server command: //undo
+[14:24:10] [Server thread/INFO]: albertbug issued server command: //set minecraft:quartz_block
+[14:25:11] [Server thread/INFO]: albertbug issued server command: /sethome enderman_farm
+[14:25:31] [Server thread/INFO]: albertbug issued server command: //replacenear quartz_slab air
+[14:25:42] [Server thread/INFO]: albertbug issued server command: //replacenear 50 minecraft:quartz_slab air
+[14:25:52] [Server thread/INFO]: albertbug issued server command: //replacenear 70 minecraft:quartz_slab air
+[14:26:27] [Server thread/INFO]: albertbug issued server command: //set 0
+[14:26:31] [Server thread/INFO]: albertbug issued server command: //undo
+[14:26:34] [Server thread/INFO]: albertbug issued server command: //undo
+[14:26:37] [Server thread/INFO]: albertbug issued server command: //redo
+[14:26:39] [Server thread/INFO]: albertbug issued server command: //set 0
+[14:26:46] [Server thread/INFO]: albertbug issued server command: //stack 10
+[14:26:54] [Server thread/INFO]: albertbug issued server command: //expand 4
+[14:26:57] [Server thread/INFO]: albertbug issued server command: //expand 4
+[14:27:00] [Server thread/INFO]: albertbug issued server command: //expand 4
+[14:27:06] [Server thread/INFO]: albertbug issued server command: //set minecraft:quartz_block
+[14:30:39] [Server thread/INFO]: albertbug issued server command: /clear
+[14:30:42] [Server thread/INFO]: albertbug issued server command: /gamemode sur
+[14:30:49] [Server thread/INFO]: albertbug issued server command: /gms
+[14:31:03] [Server thread/INFO]: albertbug issued server command: /mobkill
+[14:31:10] [Server thread/INFO]: albertbug issued server command: /mobkill monsters
+[14:31:16] [Server thread/INFO]: albertbug issued server command: /gmc
+[14:31:31] [Server thread/INFO]: albertbug issued server command: //wand
+[14:31:41] [Server thread/INFO]: albertbug issued server command: //move 10
+[14:31:49] [Server thread/INFO]: albertbug issued server command: //set minecraft:quartz_block
+[14:34:11] [Server thread/INFO]: albertbug issued server command: /kitcreate op_shulker
+[14:34:16] [Server thread/INFO]: albertbug issued server command: /kitcreate op_shulker albertbug
+[14:34:27] [Server thread/INFO]: albertbug issued server command: /kitcreate op_shulker 'Shulker with full set of OP gear'
+[14:34:35] [Server thread/INFO]: albertbug issued server command: /kitcreate albertbug
+[14:34:42] [Server thread/INFO]: albertbug issued server command: /kit
+[14:34:46] [Server thread/INFO]: albertbug issued server command: /kitshow dtools
+[14:34:59] [Server thread/INFO]: albertbug issued server command: /kitcreate godset
+[14:35:01] [Server thread/INFO]: albertbug issued server command: /kitcreate godset 1
+[14:35:07] [Server thread/INFO]: albertbug issued server command: /clear
+[14:35:10] [Server thread/INFO]: albertbug issued server command: /kit godset
+[14:35:39] [Server thread/INFO]: albertbug has made the advancement [Cover Me With Diamonds]
+[14:35:39] [Server thread/INFO]: albertbug has reached the goal [Sky's the Limit]
+[14:36:53] [Server thread/INFO]: albertbug issued server command: /kitcreate godset 1
+[14:36:56] [Server thread/INFO]: albertbug issued server command: /clear
+[14:37:02] [Server thread/INFO]: albertbug issued server command: /kit godset
+[14:37:15] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[14:37:21] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[14:38:47] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[14:39:20] [Server thread/INFO]: albertbug has made the advancement [Monster Hunter]
+[14:39:29] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[14:39:53] [Server thread/INFO]: albertbug issued server command: //wand
+[14:40:05] [Server thread/INFO]: albertbug issued server command: /homes
+[14:40:32] [Server thread/INFO]: albertbug issued server command: //wand
+[14:40:43] [Server thread/INFO]: albertbug issued server command: //expand 10
+[14:40:45] [Server thread/INFO]: albertbug issued server command: //expand 10
+[14:40:49] [Server thread/INFO]: albertbug issued server command: //expand 100
+[14:40:55] [Server thread/INFO]: albertbug issued server command: //expand 10
+[14:41:02] [Server thread/INFO]: albertbug issued server command: /mobkill monsters
+[14:41:15] [Server thread/INFO]: albertbug issued server command: /mobkill monsters
+[14:41:17] [Server thread/INFO]: albertbug issued server command: //cut
+[14:41:20] [Server thread/INFO]: albertbug issued server command: /up 100
+[14:41:23] [Server thread/INFO]: albertbug issued server command: //paste
+[14:41:43] [Server thread/INFO]: albertbug issued server command: /homes
+[14:41:50] [Server thread/INFO]: albertbug issued server command: /up 130
+[14:41:58] [Server thread/INFO]: albertbug issued server command: /up 80
+[14:41:58] [Server thread/WARN]: albertbug moved too quickly! 0.0,79.45447329568756,0.0
+[14:41:58] [Server thread/WARN]: albertbug moved too quickly! 0.0,79.45447329568756,0.0
+[14:42:24] [Server thread/INFO]: albertbug issued server command: /setwarp enderman_farm
+[14:42:24] [pool-10-thread-1/INFO]: Creating empty config: /Users/albertviilik/git/GitHub/minecraft-server/plugins/Essentials/warps/enderman_farm.yml
+[14:42:37] [Server thread/INFO]: albertbug issued server command: /delhome enderman_farm
+[14:43:48] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[14:44:37] [Server thread/INFO]: albertbug issued server command: /gmc
+[14:44:51] [Server thread/INFO]: albertbug issued server command: //replacenear 50 air
+[14:45:10] [Server thread/INFO]: albertbug issued server command: /delwarp enderman_farm
+[14:45:18] [Server thread/INFO]: albertbug issued server command: /world world
+[14:45:34] [Server thread/INFO]: albertbug issued server command: /tp 0 100 0
+[14:45:34] [Server thread/WARN]: albertbug moved too quickly! -482.2964746663887,24.438861559617777,50.54840679201662
+[14:45:39] [Server thread/INFO]: albertbug issued server command: /speed 10
+[14:45:45] [Server thread/INFO]: albertbug issued server command: /speed 1
+[14:46:01] [Server thread/INFO]: albertbug issued server command: /setworldspawn
+[14:46:01] [Server thread/INFO]: [albertbug: Set the world spawn point to 3, 78, -70]
+[14:46:07] [Server thread/INFO]: albertbug issued server command: /setwarp spawn
+[14:46:07] [pool-10-thread-1/INFO]: Creating empty config: /Users/albertviilik/git/GitHub/minecraft-server/plugins/Essentials/warps/spawn.yml
+[14:46:14] [Server thread/INFO]: albertbug issued server command: /warp spawn
+[14:48:09] [Server thread/INFO]: albertbug issued server command: /world world_the_end
+[14:48:33] [Server thread/INFO]: albertbug issued server command: /tp 500 5 0
+[14:48:37] [Server thread/INFO]: albertbug issued server command: /tp 500 5 0
+[14:48:37] [Server thread/WARN]: albertbug moved too quickly! 0.0,144.64622637220327,0.0
+[14:48:37] [Server thread/WARN]: albertbug moved too quickly! 0.0,144.64622637220327,0.0
+[14:48:38] [Server thread/INFO]: albertbug issued server command: /tp 500 5 0
+[14:48:40] [Server thread/INFO]: albertbug issued server command: /tp 500 5 0
+[14:48:43] [Server thread/INFO]: albertbug issued server command: /tp 500 5 0
+[14:48:45] [Server thread/INFO]: albertbug issued server command: /up 0
+[14:48:59] [Server thread/INFO]: albertbug issued server command: /clear
+[14:49:00] [Server thread/INFO]: albertbug issued server command: //wand
+[14:55:49] [Server thread/INFO]: albertbug issued server command: //stack 4
+[14:56:13] [Server thread/INFO]: albertbug issued server command: //stack 2
+[14:56:20] [Server thread/INFO]: albertbug issued server command: //stack 2
+[14:56:32] [Server thread/INFO]: albertbug issued server command: //stack 4
+[14:58:37] [Server thread/INFO]: albertbug issued server command: //stack 13
+[14:59:02] [Server thread/INFO]: albertbug issued server command: //undo
+[14:59:34] [Server thread/INFO]: albertbug issued server command: //undo
+[14:59:36] [Server thread/INFO]: albertbug issued server command: //redo
+[14:59:38] [Server thread/INFO]: albertbug issued server command: //stack 13
+[15:00:31] [Server thread/INFO]: albertbug issued server command: //stack 17
+[15:00:41] [Server thread/INFO]: albertbug issued server command: //
+[15:00:49] [Server thread/INFO]: albertbug issued server command: //
+[15:00:53] [Server thread/INFO]: albertbug issued server command: //calc
+[15:00:57] [Server thread/INFO]: albertbug issued server command: //calculate
+[15:01:05] [Server thread/INFO]: albertbug issued server command: //calc
+[15:01:13] [Server thread/INFO]: albertbug issued server command: //set 0
+[15:01:16] [Server thread/INFO]: albertbug issued server command: //undo
+[15:01:21] [Server thread/INFO]: albertbug issued server command: //set 0
+[15:01:25] [Server thread/INFO]: albertbug issued server command: //undo
+[15:01:53] [Server thread/INFO]: albertbug issued server command: //stack 13
+[15:02:09] [Server thread/INFO]: albertbug issued server command: //undo
+[15:02:23] [Server thread/INFO]: albertbug issued server command: //stack 13
+[15:02:32] [Server thread/INFO]: albertbug issued server command: //stack 13
+[15:02:52] [Server thread/INFO]: albertbug issued server command: //stack 18
+[15:02:56] [Server thread/INFO]: albertbug issued server command: //undo
+[15:03:04] [Server thread/INFO]: albertbug issued server command: //stack 18
+[15:03:43] [Server thread/INFO]: albertbug issued server command: //expand 18
+[15:03:49] [Server thread/INFO]: albertbug issued server command: //paste
+[15:03:52] [Server thread/INFO]: albertbug issued server command: //undo
+[15:03:57] [Server thread/INFO]: albertbug issued server command: //copy
+[15:04:01] [Server thread/INFO]: albertbug issued server command: //pase
+[15:04:03] [Server thread/INFO]: albertbug issued server command: //paste
+[15:08:37] [Server thread/INFO]: albertbug issued server command: //stack 10
+[15:09:15] [Server thread/INFO]: albertbug issued server command: //stack 18
+[15:09:45] [Server thread/INFO]: albertbug issued server command: //stack 18
+[15:12:25] [Server thread/INFO]: albertbug issued server command: /mobkill monsters
+[15:15:00] [Server thread/INFO]: albertbug issued server command: //exapnd 5
+[15:15:04] [Server thread/INFO]: albertbug issued server command: //expand 5
+[15:15:07] [Server thread/INFO]: albertbug issued server command: //expand 5
+[15:15:11] [Server thread/INFO]: albertbug issued server command: //expand 11
+[15:15:22] [Server thread/INFO]: albertbug issued server command: //set minecraft:sandstone_slab
+[15:15:33] [Server thread/INFO]: albertbug issued server command: //set minecraft:sandstone_slab:2
+[15:15:38] [Server thread/INFO]: albertbug issued server command: //undo
+[15:15:59] [Server thread/INFO]: albertbug issued server command: //stack 5
+[15:16:02] [Server thread/INFO]: albertbug issued server command: //stack 5
+[15:16:12] [Server thread/INFO]: albertbug issued server command: //stack 11
+[15:18:15] [Server thread/INFO]: albertbug issued server command: /setwarp enderman_farm
+[15:18:15] [pool-10-thread-1/INFO]: Creating empty config: /Users/albertviilik/git/GitHub/minecraft-server/plugins/Essentials/warps/enderman_farm.yml
+[15:18:19] [Server thread/INFO]: albertbug issued server command: /warp enderman_farm
+[15:18:27] [Server thread/INFO]: albertbug issued server command: /clear
+[15:18:30] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[15:18:42] [Server thread/INFO]: albertbug issued server command: /kit godset
+[15:19:32] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[15:20:02] [Server thread/INFO]: albertbug issued server command: //wand
+[15:20:17] [Server thread/INFO]: albertbug issued server command: /up 0
+[15:20:26] [Server thread/INFO]: albertbug issued server command: /up 0
+[15:20:41] [Server thread/INFO]: albertbug issued server command: //move 1
+[15:24:20] [Server thread/INFO]: albertbug issued server command: /summon minecraft:minecart
+[15:24:20] [Server thread/INFO]: [albertbug: Summoned new Minecart]
+[15:24:31] [Server thread/INFO]: albertbug issued server command: /summon minecraft:minecart
+[15:24:31] [Server thread/INFO]: [albertbug: Summoned new Minecart]
+[15:24:42] [Server thread/INFO]: albertbug issued server command: /summon minecraft:minecart
+[15:24:42] [Server thread/INFO]: [albertbug: Summoned new Minecart]
+[15:24:51] [Server thread/INFO]: albertbug issued server command: /summon minecraft:endermite
+[15:24:51] [Server thread/INFO]: [albertbug: Summoned new Endermite]
+[15:29:05] [Server thread/INFO]: albertbug issued server command: /clear
+[15:29:12] [Server thread/INFO]: albertbug issued server command: /kit godset
+[15:29:18] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[15:29:50] [Server thread/INFO]: albertbug issued server command: /fly albertbug
+[15:30:10] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[15:30:11] [Server thread/INFO]: albertbug issued server command: /clear
+[15:30:23] [Server thread/INFO]: albertbug issued server command: /mobkill monsters
+[15:35:21] [Server thread/INFO]: albertbug issued server command: /thru
+[15:35:29] [Server thread/INFO]: albertbug issued server command: /thru
+[15:35:31] [Server thread/INFO]: albertbug issued server command: /thru
+[15:35:41] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[15:35:43] [Server thread/INFO]: albertbug issued server command: /clear
+[15:35:46] [Server thread/INFO]: albertbug issued server command: /kit godset
+[15:39:04] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[15:39:24] [Server thread/INFO]: albertbug issued server command: //wand
+[15:39:43] [Server thread/INFO]: albertbug issued server command: //stack 5
+[15:39:48] [Server thread/INFO]: albertbug issued server command: //stack 5
+[15:40:25] [Server thread/INFO]: albertbug issued server command: //stack 10
+[15:41:04] [Server thread/INFO]: albertbug issued server command: /clear
+[15:43:29] [Server thread/INFO]: albertbug issued server command: /kit godset
+[15:44:08] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[15:45:53] [Server thread/INFO]: albertbug issued server command: /clear
+[15:45:55] [Server thread/INFO]: albertbug issued server command: /gmc
+[15:46:37] [Server thread/INFO]: albertbug issued server command: /i 10
+[15:46:43] [Server thread/INFO]: albertbug issued server command: /i
+[15:46:47] [Server thread/INFO]: albertbug issued server command: /i 10cd
+[15:46:55] [Server thread/INFO]: albertbug issued server command: /i lava_bucket
+[15:46:55] [Server thread/INFO]: albertbug has made the advancement [Hot Stuff]
+[15:46:58] [Server thread/INFO]: albertbug issued server command: /i lava_bucket
+[15:46:59] [Server thread/INFO]: albertbug issued server command: /i lava_bucket
+[15:46:59] [Server thread/INFO]: albertbug issued server command: /i lava_bucket
+[15:47:01] [Server thread/INFO]: albertbug issued server command: /i lava_bucket
+[15:47:01] [Server thread/INFO]: albertbug issued server command: /i lava_bucket
+[15:50:20] [Server thread/INFO]: albertbug issued server command: /clear
+[15:51:05] [Server thread/INFO]: albertbug issued server command: /kill @e[name=enderman]
+[15:51:24] [Server thread/INFO]: albertbug issued server command: /killall e[name=enderman]
+[15:51:32] [Server thread/INFO]: albertbug issued server command: /killall e[name=minecraft:enderman]
+[15:53:34] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[15:53:58] [Server thread/INFO]: albertbug issued server command: /warp spawn
+[15:54:09] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[15:55:21] [Server thread/INFO]: albertbug issued server command: /tp ~500 ~0 ~0
+[15:56:48] [Server thread/INFO]: albertbug issued server command: /tp ~500 ~0 ~0
+[15:56:48] [Server thread/WARN]: albertbug moved too quickly! 499.89863191144843,0.0,0.19999998807907104
+[15:57:34] [Server thread/INFO]: albertbug issued server command: /locate Village
+[15:57:42] [Server thread/INFO]: albertbug issued server command: /warp spawn
+[15:57:42] [Server thread/WARN]: albertbug moved too quickly! -8078.92899467842,10.0,25.64533779996377
+[15:58:03] [Server thread/INFO]: albertbug issued server command: /tp ~500 ~0 ~0
+[15:58:10] [Server thread/INFO]: albertbug issued server command: /locate Village
+[15:58:32] [Server thread/INFO]: albertbug issued server command: /locate Village
+[15:58:34] [Server thread/INFO]: albertbug issued server command: /tp ~500 ~0 ~0
+[15:58:34] [Server thread/WARN]: albertbug moved too quickly! 500.03111009108625,0.0,0.19812057543046002
+[15:58:34] [Server thread/WARN]: albertbug moved too quickly! 500.03111009108625,0.0,0.19812057543046002
+[15:58:36] [Server thread/INFO]: albertbug issued server command: /tp ~500 ~0 ~0
+[15:58:55] [Server thread/INFO]: albertbug issued server command: /locate Village
+[15:59:15] [Server thread/INFO]: albertbug issued server command: /clear
+[15:59:19] [Server thread/INFO]: albertbug issued server command: /gamemode survival
+[15:59:46] [Server thread/INFO]: albertbug has made the advancement [Acquire Hardware]
+[15:59:59] [Server thread/INFO]: albertbug has made the advancement [Sweet Dreams]
+[16:00:27] [Server thread/INFO]: albertbug issued server command: /sethome home
+[16:00:31] [Server thread/INFO]: albertbug issued server command: /homes albertbug
+[16:00:37] [Server thread/INFO]: albertbug issued server command: /homes
+[16:01:45] [Server thread/INFO]: albertbug issued server command: /sethome home
+[16:01:49] [Server thread/INFO]: albertbug issued server command: /home
+[16:03:27] [Server thread/INFO]: albertbug issued server command: /mobkill monsters
+[16:05:53] [Server thread/INFO]: albertbug has made the advancement [What a Deal!]
+[16:07:06] [Server thread/INFO]: albertbug issued server command: /sethome
+[16:07:13] [Server thread/INFO]: albertbug issued server command: /sethome home
+[16:07:26] [Server thread/INFO]: albertbug issued server command: /home
+[16:07:58] [Server thread/INFO]: albertbug issued server command: /warp enderman_farm
+[16:08:48] [Server thread/INFO]: albertbug has made the advancement [Suit Up]
+[16:08:48] [Server thread/INFO]: albertbug has made the advancement [Isn't It Iron Pick]
+[16:09:09] [Server thread/INFO]: albertbug issued server command: /i lapis_lazuli
+[16:09:24] [Server thread/INFO]: albertbug has made the advancement [Enchanter]
+[16:16:09] [Server thread/INFO]: albertbug issued server command: /experience add albertbug 1000 levels
+[16:16:09] [Server thread/INFO]: [albertbug: Gave 1000 experience levels to albertbug]
+[16:17:01] [Server thread/INFO]: albertbug issued server command: /enchant alldamage
+[16:17:40] [Server thread/INFO]: albertbug issued server command: /enchant alldamage
+[16:17:44] [Server thread/INFO]: albertbug issued server command: /enchant alldamage 5
+[16:18:04] [Server thread/INFO]: albertbug issued server command: /enchant sharpness 100
+[16:18:27] [Server thread/INFO]: albertbug issued server command: /enchantment alldamage 100
+[16:18:29] [Async Chat Thread - #1/INFO]: <[0;31;22malbertbug[m> clear[m
+[16:19:04] [Server thread/INFO]: albertbug issued server command: /eabout
+[16:19:07] [Server thread/INFO]: albertbug issued server command: //help
+[16:19:09] [Server thread/INFO]: albertbug issued server command: /help
+[16:19:16] [Server thread/INFO]: albertbug issued server command: /help essentials
+[16:19:34] [Server thread/INFO]: albertbug issued server command: /antioch albertbug
+[16:19:56] [Server thread/INFO]: albertbug issued server command: /gmc
+[16:20:00] [Server thread/INFO]: albertbug issued server command: //wand
+[16:20:07] [Server thread/INFO]: albertbug issued server command: //set minecraft:glass
+[16:20:41] [Server thread/INFO]: albertbug issued server command: /help essentials 3
+[16:20:56] [Server thread/INFO]: albertbug issued server command: /help essentials 5
+[16:21:07] [Server thread/INFO]: albertbug issued server command: /help essentials 4
+[16:21:16] [Server thread/INFO]: albertbug issued server command: /help essentials 6
+[16:21:22] [Server thread/INFO]: albertbug issued server command: /help essentials 7
+[16:21:28] [Server thread/INFO]: albertbug issued server command: /help essentials 8
+[16:21:31] [Server thread/INFO]: albertbug issued server command: /help essentials 9
+[16:21:40] [Server thread/INFO]: albertbug issued server command: /help essentials 10
+[16:21:45] [Server thread/INFO]: albertbug issued server command: /gamemode spectator
+[16:21:59] [Server thread/INFO]: albertbug issued server command: /gamemode creative
+[16:22:18] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword 1
+[16:22:25] [Server thread/INFO]: albertbug issued server command: /enchant sharpness 10
+[16:23:11] [Server thread/INFO]: albertbug issued server command: /give @p diamond_sword 16 0 {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:23:18] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword 16 0 {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:23:32] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword{ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:23:44] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword 16 {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:23:54] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:24:11] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword 1 0 {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:24:29] [Server thread/INFO]: albertbug issued server command: /give 137
+[16:24:32] [Server thread/INFO]: albertbug issued server command: /i 137
+[16:24:36] [Server thread/INFO]: albertbug issued server command: /i command_block
+[16:24:46] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give @p stick 16 0 {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:24:49] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give @p stick 16 0 {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:24:57] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give albertbug stick 16 0 {ench:[{id:16,lvl:32767},{id:19,lvl:32767}]}
+[16:26:46] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword{display:{Name:"\"Excalibur\"",Lore:["\"Deletes entities with one blow\""]},Enchantments:[{id:sharpness,lvl:3},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:2},{id:mending
+[16:27:09] [Server thread/INFO]: albertbug issued server command: /i command_block
+[16:27:16] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give @s diamond_sword{display:{Name:"\"Excalibur\"",Lore:["\"Deletes entities with one blow\""]},Enchantments:[{id:sharpness,lvl:3},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:2},{id:mending,lvl:1},{id:vanishing_curse,lvl:1}]} 1
+[16:27:36] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give @s diamond_sword{display:{Name:"\"Excalibur\""},Enchantments:[{id:sharpness,lvl:3},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:2},{id:mending,lvl:1},{id:vanishing_curse,lvl:1}]} 1
+[16:27:58] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give @s diamond_sword 1 0 {display:{Name:"\"Excalibur\""},Enchantments:[{id:sharpness,lvl:3},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:2},{id:mending,lvl:1},{id:vanishing_curse,lvl:1}]} 1
+[16:28:08] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give albertbug diamond_sword 1 0 {display:{Name:"\"Excalibur\""},Enchantments:[{id:sharpness,lvl:3},{id:knockback,lvl:2},{id:fire_aspect,lvl:2},{id:looting,lvl:3},{id:sweeping,lvl:3},{id:unbreaking,lvl:2},{id:mending,lvl:1},{id:vanishing_curse,lvl:1}]} 1
+[16:28:08] [Server thread/ERROR]: null
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unexpected trailing data at position 220: ...,lvl:1}]} <--[HERE]
+[16:30:48] [Server thread/INFO]: albertbug issued server command: /summon Item ~ ~ ~ {Item:{id:276,Count:1,tag:{display:{Name:"Excalibur",Lore:["Deletes entities from existence with a single blow","With great power comes great responsibility"]},ench:[{id:16,lvl:32767},{id:17,lvl:32767},{id:18,lvl:32767},{id:20,lvl:32767}
+[16:31:03] [Server thread/INFO]: albertbug issued server command: /give @p diamond_sword 1 0 {display:{Name:"Excalibur",Lore:["Deletes entities from existence with a single blow","With great power comes great responsibility"]},ench:[{id:16,lvl:32767},{id:17,lvl:32767},{id:18,lvl:32767},{id:20,lvl:32767},{id:21,lvl:32767}
+[16:31:19] [Server thread/INFO]: albertbug issued server command: /give albertbug diamond_sword 1 0 {display:{Name:"Excalibur",Lore:["Deletes entities from existence with a single blow","With great power comes great responsibility"]},ench:[{id:16,lvl:32767},{id:17,lvl:32767},{id:18,lvl:32767},{id:20,lvl:32767},{id:21,lvl
+[16:31:19] [Server thread/ERROR]: null
+com.mojang.brigadier.exceptions.CommandSyntaxException: Expected ':' at position 222: ...{id:21,lvl<--[HERE]
+[16:31:36] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give @a diamond_sword 1 0 {display:{Name:"Excalibur",Lore:["Deletes entities from existence with a single blow","With great power comes great responsibility"]},ench:[{id:16,lvl:32767},{id:17,lvl:32767},{id:18,lvl:32767},{id:20,lvl:32767},{id:21,lvl:32767},{id:34,lvl:32767}]}
+[16:31:48] [Server thread/INFO]: CommandBlock at 502,5,8 issued server command: /give albertbug diamond_sword 1 0 {display:{Name:"Excalibur",Lore:["Deletes entities from existence with a single blow","With great power comes great responsibility"]},ench:[{id:16,lvl:32767},{id:17,lvl:32767},{id:18,lvl:32767},{id:20,lvl:32767},{id:21,lvl:32767},{id:34,lvl:32767}]}
+[16:34:04] [Server thread/INFO]: albertbug issued server command: /summon Villager ~1 ~ ~ {Profession:3,CustomName:"Shop",CustomNameVisible:1,Career:2,CareerLevel:42,CanPickUpLoot:0,PersistenceRequired:1,NoAI:1,Silent:1,Invulnerable:1,Attributes:[{Name:"generic.knockbackResistance",Base:"1f"},{Name:"generic.movementSpeed
+[16:34:17] [Server thread/INFO]: albertbug issued server command: /summon Villager ~1 ~ ~ {Profession:3,CustomName:"Shop",CustomNameVisible:1,Career:2,CareerLevel:42,CanPickUpLoot:0,PersistenceRequired:1,NoAI:1,Silent:1,Invulnerable:1,Attributes:[{Name:"generic.knockbackResistance",Base:"1f"},{Name:"generic.movementSpeed
+[16:34:36] [Server thread/INFO]: albertbug issued server command: /clear
+[16:35:07] [Server thread/INFO]: albertbug issued server command: /item da
+[16:35:13] [Server thread/INFO]: albertbug issued server command: /item damageaoepoiontstrong
+[16:35:58] [Server thread/INFO]: albertbug issued server command: /clear
+[16:36:15] [Server thread/INFO]: CONSOLE issued server command: /give albertbug diamond_sword
+[16:36:15] [Server thread/INFO]: [0;33;22mGiving[0;31;1m 64 [0;33;22mof[0;31;1m diamond sword [0;33;22mto[0;31;1m [0;31;22malbertbug[m[0;33;22m.[m
+[16:36:39] [Server thread/INFO]: CONSOLE issued server command: /enchant albertbug minecraft:shrpness 6
+[16:36:39] [Server thread/INFO]: [0;31;1mError:[0;31;22m [0;31;22mOnly in-game players can use [0;31;1menchant[0;31;22m.[m
+[16:36:58] [Server thread/INFO]: albertbug issued server command: /clear
+[16:37:03] [Server thread/INFO]: albertbug issued server command: /clear
+[16:37:08] [Server thread/INFO]: albertbug issued server command: /spawn
+[16:37:18] [Server thread/INFO]: albertbug issued server command: /warp spawn
+[16:38:33] [Server thread/INFO]: albertbug issued server command: /money
+[16:38:37] [Server thread/INFO]: albertbug issued server command: /bal
+[16:38:48] [Server thread/INFO]: albertbug issued server command: /showkit
+[16:38:52] [Server thread/INFO]: albertbug issued server command: /showkit godset
+[16:39:56] [Server thread/INFO]: albertbug issued server command: /i redstonelamp:enabled
+[16:39:59] [Server thread/INFO]: albertbug issued server command: /i redstonelamp:1
+[16:40:01] [Server thread/INFO]: albertbug issued server command: /i redstonelamp:2
+[16:40:12] [Server thread/INFO]: albertbug issued server command: /i debug_stick
+[16:40:36] [Server thread/INFO]: albertbug issued server command: /time set night
+[16:42:07] [Server thread/INFO]: albertbug issued server command: /mobkill monsters
+[16:42:54] [Server thread/INFO]: albertbug issued server command: //replacenear 50 la
+[16:43:26] [Server thread/INFO]: albertbug issued server command: //replacenear 100 minecraft:redstone_lamp minecraft:sea_lantern
+[16:44:21] [Server thread/INFO]: albertbug issued server command: /speed 10
+[16:44:37] [Server thread/INFO]: albertbug issued server command: /speed 100
+[16:44:43] [Server thread/INFO]: albertbug issued server command: /speed 1
+[16:44:49] [Server thread/INFO]: albertbug issued server command: /warp spawn
+[16:45:30] [Server thread/INFO]: albertbug issued server command: /warp enderman_farm
+[16:45:34] [Server thread/INFO]: albertbug issued server command: /clear
+[16:45:49] [Server thread/INFO]: albertbug issued server command: /warp spawn
+[16:45:57] [Server thread/INFO]: albertbug issued server command: /up 1
+[16:46:14] [Server thread/INFO]: albertbug issued server command: /tp ~0 ~100 ~0
+[16:46:14] [Server thread/WARN]: albertbug moved too quickly! 0.0,100.21061502268338,0.0
+[16:46:14] [Server thread/WARN]: albertbug moved too quickly! 0.0,100.21061502268338,0.0
+[16:46:25] [Server thread/INFO]: albertbug issued server command: /tp ~0 100 ~0
+[16:46:25] [Server thread/WARN]: albertbug moved too quickly! 0.0,-31.860965778121937,0.0
+[16:46:25] [Server thread/WARN]: albertbug moved too quickly! 0.0,-31.860965778121937,0.0
+[16:46:25] [Server thread/WARN]: albertbug moved too quickly! 0.0,-31.860965778121937,0.0
+[16:46:32] [Server thread/INFO]: albertbug lost connection: Disconnected
+[16:46:32] [Server thread/INFO]: albertbug left the game
+[16:46:39] [Server thread/INFO]: Stopping the server
+[16:46:39] [Server thread/INFO]: Stopping server
+[16:46:39] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[16:46:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[16:46:39] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:46:39] [Server thread/INFO]: Saving players
+[16:46:39] [Server thread/INFO]: Saving worlds
+[16:46:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[16:46:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:46:39] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[16:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:46:40] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[16:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:46:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:46:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
